@@ -44,8 +44,8 @@
 
 ## 🌍 Contact
 - 💼 LinkedIn : https://www.linkedin.com/in/jean-kpetsi-06b636369/
-- 📧 Email : apotrekokoujean06@gmail.com
-- 🐙 GitHub : https://github.com/JeanJAKK
+- 📧 Email :    apotrekokoujean06@gmail.com
+- 🐙 GitHub :   https://github.com/JeanJAKK
 
 ---
 
