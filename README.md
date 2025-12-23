@@ -1,24 +1,29 @@
 # 👋 Hi, I'm Jean KPETSI(JeanJAKK)
 
+🎓 **Étudiant en Licence – Informatique - Génie logiciel**  
 💻 **Computer Science & Robotics Enthusiast**  
-🤖 Passionné par la programmation, l’IA et les systèmes intelligents  
-🌱 Toujours en train d’apprendre et de construire des projets concrets  
+🤖 Intéressé par le développement logiciel, l’IA et les systèmes intelligents  
 
 ---
 
 ## 🚀 About Me
-- 🎓 Intéressé par l’informatique, l’IA et la robotique
-- 🛠️ J’aime transformer des idées en applications réelles
-- 🤝 Ouvert aux collaborations sur des projets techniques
+- 🎓 Étudiant en **Licence d’informatique - Génie logiciel**
+- 🧠 Passionné par la compréhension des systèmes, algorithmes et technologies modernes
+- 🛠️ J’aime apprendre en pratiquant et construire des projets concrets
+- 🤝 Ouvert aux collaborations et projets académiques
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![TeX](https://img.shields.io/badge/TeX-3D6117?logo=latex&logoColor=white)
 
 ---
 
@@ -27,7 +32,7 @@
 
 ---
 
-## 🔥 GitHub Activity Graph
+## 🔥 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeanJAKK&theme=tokyo-night)
 
 ---
@@ -37,9 +42,11 @@
 
 ---
 
-## 📫 Contact
-- GitHub: [@JeanJAKK](https://github.com/JeanJAKK)
+## 🌍 Contact
+- 💼 LinkedIn : https://www.linkedin.com/in/jean-kpetsi-06b636369/
+- 📧 Email : apotrekokoujean06@gmail.com
+- 🐙 GitHub : https://github.com/JeanJAKK
 
 ---
 
-⭐ *“Learning by building, improving by sharing.”*
+⭐ *“Learning computer science by building, experimenting, and improving.”*
