@@ -1,62 +1,52 @@
-# Jean KPETSI (JeanJAKK)
+# 👋 Hi, I'm Jean KPETSI (JeanJAKK)
 
-🎓 **Étudiant en Licence – Informatique (Génie logiciel)**  
-💻 Intéressé par l’ingénierie logicielle, les algorithmes et les systèmes informatiques  
-🤖 Curieux des systèmes intelligents et de l’intelligence artificielle  
-
----
-
-## Profil
-Étudiant en Licence d’informatique, option **Génie logiciel**, je m’intéresse à la conception de logiciels, à la compréhension des algorithmes et au fonctionnement des systèmes informatiques.  
-Mon objectif est de consolider des bases solides en informatique théorique et appliquée à travers des projets académiques et personnels.
+🎓 **Étudiant en Licence – Informatique - Génie logiciel**
+💻 **Computer Science & Robotics Enthusiast**
+🤖 Intéressé par le développement logiciel, l’IA et les systèmes intelligents
 
 ---
 
-## Centres d’intérêt
-- Algorithmes et structures de données  
-- Programmation orientée objet  
-- Développement logiciel  
-- Intelligence artificielle (bases)  
-- Systèmes informatiques et architecture  
+## 🚀 About Me
+
+* 🎓 Étudiant en **Licence d’informatique - Génie logiciel**
+* 🧠 Passionné par la compréhension des systèmes, algorithmes et technologies modernes
+* 🛠️ J’aime apprendre en pratiquant et construire des projets concrets
+* 🤝 Ouvert aux collaborations et projets académiques
 
 ---
 
-## Compétences techniques
+## 🧠 Programming Languages
 
-### Langages de programmation
-- **C** (programmation bas niveau, algorithmique)
-- **Java** (POO, projets académiques)
-- **Python** (scripts, algorithmique, IA de base)
-- **JavaScript / TypeScript** (développement web)
-- **PHP** (applications web)
-- **HTML / CSS** (interfaces web)
-- **LaTeX** (documents académiques)
-
-### Outils & environnement
-- Git / GitHub  
-- Linux / Windows  
-- Visual Studio Code, NetBeans  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-orange?logo=java\&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?logo=c\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-red?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
+![TeX](https://img.shields.io/badge/TeX-3D6117?logo=latex\&logoColor=white)
 
 ---
 
-## Projets
-Les projets présents sur ce profil correspondent principalement à :
-- des **travaux pratiques universitaires**,
-- des **exercices d’algorithmique**,
-- des **projets d’apprentissage personnel**.
+## 📊 GitHub Statistics
 
-➡️ Les dépôts épinglés (Pinned repositories) mettent en avant les projets les plus représentatifs.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeanJAKK\&show_icons=true\&include_all_commits=true\&count_private=true\&hide_rank=true\&theme=tokyonight)
 
 ---
 
-## Objectifs
-- Approfondir les bases en **algorithmique et génie logiciel**
-- Développer des projets structurés et bien documentés
-- Préparer une poursuite d’études ou un **stage académique/professionnel**
+## 🧩 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanJAKK\&layout=compact\&langs_count=8\&theme=tokyonight)
 
 ---
 
-## Contact
-- 💼 LinkedIn : https://www.linkedin.com/in/jean-kpetsi-06b636369/
-- 📧 Email : apotrekokoujean06@gmail.com
-- 🐙 GitHub : https://github.com/JeanJAKK
+## 🌍 Contact
+
+* 💼 LinkedIn : [https://www.linkedin.com/in/jean-kpetsi-06b636369/](https://www.linkedin.com/in/jean-kpetsi-06b636369/)
+* 📧 Email : [apotrekokoujean06@gmail.com](mailto:apotrekokoujean06@gmail.com)
+* 🐙 GitHub : [https://github.com/JeanJAKK](https://github.com/JeanJAKK)
+
+---
+
+⭐ *“Learning computer science by building, experimenting, and improving.”*
