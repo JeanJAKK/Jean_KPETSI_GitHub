@@ -1,9 +1,10 @@
 # 👋 Hi, I'm **Jean KPETSI** (JeanJAKK)
 
+---
 🎓 **Étudiant en Licence – Informatique | Génie Logiciel**
 💻 **Computer Science & Robotics Enthusiast**
 🤖 Intéressé par le développement logiciel, l’IA et les systèmes intelligents
-
+---
 ---
 
 ## 🚀 About Me
